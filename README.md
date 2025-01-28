@@ -9,6 +9,6 @@ intro_stuff = {
     'analytics': ['python', 'pandas', 'sql', 'scraping', 'excel', 'pivot_tables'], 
     'vis': ['geopandas', 'flourish', 'datawrapper'], 
     'multimedia': ['adobe_audition', 'premiere_pro', 'procreate', 'audacity'], 
-    'interests': ['working out', 'traveling', 'photography', 'pickleball', 'tennis', 'table tennis,' 'watching football'], 
+    'interests': ['working out', 'traveling', 'photography', 'pickleball', 'tennis', 'watching football'], 
     'nicknames': ['mithu']
 }
