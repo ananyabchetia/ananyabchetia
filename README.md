@@ -1,4 +1,4 @@
-## Hi there, I'm Ananya 👋
+## Hi, I'm Ananya 👋
 
 ```python
 intro_stuff = { 
@@ -9,6 +9,6 @@ intro_stuff = {
     'analytics': ['python', 'pandas', 'sql', 'scraping', 'excel', 'pivot_tables'], 
     'vis': ['geopandas', 'flourish', 'datawrapper'], 
     'multimedia': ['audio_production', 'video_production'], 
-    'interests': ['working out', 'traveling', 'photography', 'football'], 
+    'interests': ['working out', 'traveling', 'photography', 'pickleball', 'tennis', 'table tennis,' 'watching football'], 
     'nicknames': ['mithu']
 }
