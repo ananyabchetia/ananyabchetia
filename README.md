@@ -10,5 +10,5 @@ intro_stuff = {
     'vis': ['geopandas', 'flourish', 'datawrapper', 'gis'], 
     'multimedia': ['adobe_audition', 'premiere_pro', 'procreate', 'audacity'], 
     'interests': ['working out', 'traveling', 'photography', 'pickleball', 'tennis', 'watching football'], 
-    'nicknames': ['mithu' dont worry, its phonetic.]
+    'nicknames': ['mithu']
 }
